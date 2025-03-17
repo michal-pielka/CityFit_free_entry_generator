@@ -1,4 +1,3 @@
-```markdown
 # CityFit Gym Account Generator
 
 **Disclaimer:**  
@@ -116,4 +115,3 @@ The code in this repository is far from perfect since it was developed rapidly a
 ## Contact
 
 For further information or to discuss this project, please [contact me](mpielka726@gmail.com).
-```
